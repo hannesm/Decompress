@@ -1,5 +1,5 @@
 description = "Pure implementation of zlib"
-version = "%%VERSION%%"
+version = "0.5"
 requires = "bigarray"
 archive(byte) = "decompress.cma"
 archive(native) = "decompress.cmxa"
